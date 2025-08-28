@@ -1,86 +1,80 @@
-<!-- ЛОГОТИП -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/spacyboy/spacyboy/main/logo2.png" alt="SPACY" width="200"/>
-</p>
-
-<!-- ПРИВЕТСТВИЕ -->
-<h1 align="center">Hi 👋, I'm SPACY</h1>
-<h3 align="center">🚀 Machine Learning Engineer from Russia</h3>
-<h4 align="center">I design, build and optimize intelligent systems powered by AI</h4>
-
----
-
-<!-- КНОПКИ-СОЦСЕТИ -->
-<p align="center">
-  <a href="https://github.com/spacyboy">
-    <img src="https://img.shields.io/github/followers/spacyboy?label=Follow%20me&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-link/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge" />
-  </a>
-</p>
-
----
-
-<!-- АНИМАЦИЯ С ПОДПИСЬЮ -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFAA&lines=Machine+Learning+Engineer;Deep+Learning+%26+AI+Enthusiast;Open-Source+Contributor;Always+Learning+New+Things" alt="Typing SVG">
-</p>
-
----
-
-## 🛠️ Tech Stack
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Привет!+Я+SPACY+🚀;ML+Engineer+из+России+🇷🇺;Deep+Learning+%7C+MLOps+%7C+AI+Research" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,postgresql,docker,aws,git,github,linux&perline=6" />
+  <img src="https://img.shields.io/badge/Role-ML%20Engineer-blue?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Russia-red?style=flat-square&logo=russia&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=SPACY&style=flat-square&color=brightgreen" alt="Profile Views"/>
 </p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spacyboy&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacyboy&layout=compact&theme=tokyonight" height="180em"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
----
 
-## 🚀 Contribution Streak
+
+
+## 👨‍💻 О себе
+
+> *"Данные — это новый нефть, а моя задача — превращать её в ракетное топливо 🚀"*
+
+- 🎓 ML Engineer / Data Scientist / AI Researcher  
+- 🧪 Работаю с Deep Learning, MLOps и продакшн-архитектурами  
+- 📊 Увлекаюсь экспериментами с LLM, AI-агентами и генеративными моделями  
+- 🎶 Хобби: создавать музыкальные паттерны с помощью нейросетей  
+- 🔥 Мой девиз: *"Code → Train → Deploy → Impact"*  
+
+
+
+## 🛠️ Стек и инструменты
+
+### Языки и ML-фреймворки
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-0052CC?logo=google&logoColor=white)
+
+### DevOps & Data Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white)
+
+
+
+## 🚀 Проекты и портфолио
+
+- 🧬 **[NeuroSynth](https://github.com/SPACY/neurosynth)** → генеративная музыка через Transformer  
+- 📈 **[TimeSeries-Lab](https://github.com/SPACY/timeseries-lab)** → предсказания временных рядов (LSTM/Prophet/Transformers)  
+- 🤖 **[AI-Agents](https://github.com/SPACY/ai-agents)** → эксперименты с автономными LLM-агентами  
+- 🛰 **[SatelliteVision](https://github.com/SPACY/satellite-vision)** → сегментация спутниковых снимков с U-Net  
+
+
+
+## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=spacyboy&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SPACY&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPACY&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spacyboy&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SPACY&theme=github_dark"/>
 </p>
-
----
-
-## 📡 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spacyboy&theme=tokyo-night" />
+  <img src="https://github.com/SPACY/SPACY/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
----
 
-## 🎬 Fun GIF
+## 🌐 Контакты
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <a href="https://t.me/spacy_ai"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/spacy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:spacy.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/spacyboy">SPACY</a>
-</p>
