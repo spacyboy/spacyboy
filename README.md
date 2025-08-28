@@ -2,6 +2,6 @@
 <div align="justify">
 
   
-<h1 align="center">Hi 👋, I'm SPACY</h1>
-<h3 align="center">A passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h1 align="center">👋 Hi, I'm SPACY</h1>
+<h3 align="center">Machine Learning Engineer from Russia</h3>
+<h4 align="center">I design, build and optimize intelligent systems powered by data and AI</h4>
