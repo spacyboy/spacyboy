@@ -13,7 +13,402 @@
 ========================================================================
 ========================================================================
 ========================================================================
+1
+<!-- =========================
+OPTION 16 — Typing SVG (жирный, быстрый набор)
+========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=56&duration=1800&pause=600&center=true&vCenter=true&width=900&lines=Hi+im+spacy" alt="typing bold fast">
+</p>
 
+---
+2
+<!-- =========================
+OPTION 17 — Typing SVG (ультра-крупный, медленный)
+========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=72&duration=3800&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+im+spacy" alt="typing huge slow">
+</p>
+
+---
+3
+<!-- =========================
+OPTION 18 — Typing SVG (градиентная палитра через color)
+========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=60&duration=2400&center=true&vCenter=true&width=980&color=00C9FF&lines=Hi+im+spacy" alt="typing blue">
+</p>
+
+---
+4
+<!-- =========================
+OPTION 19 — Capsule Render (болд-текст, волна + подсветка)
+========================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&animation=blink&height=220&section=header&text=Hi%20im%20spacy&fontSize=64&fontAlign=50&fontAlignY=40&color=0:0EA5E9,100:22C55E" alt="wave bold">
+</p>
+
+---
+5
+<!-- =========================
+OPTION 20 — Capsule Render (градиентная капсула, тёмная)
+========================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=160&section=header&text=Hi%20im%20spacy&fontSize=58&fontColor=FFFFFF&color=1F2937" alt="rounded dark bold">
+</p>
+
+---
+6
+<!-- =========================
+OPTION 21 — SVG: неоновое свечение + лёгкий пульс
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 200" width="100%" height="160" role="img" aria-label="Hi im spacy">
+    <defs>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+        <feMerge>
+          <feMergeNode in="coloredBlur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="88" font-weight="700" fill="#ffffff" filter="url(#glow)">
+      Hi im spacy
+      <animate attributeName="font-size" values="88;92;88" dur="2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
+
+---
+7
+<!-- =========================
+OPTION 22 — SVG: бегущий "шиммер" через градиент-маску
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 200" width="100%" height="160" role="img">
+    <defs>
+      <linearGradient id="shine" x1="0" x2="1">
+        <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+        <stop offset="50%" stop-color="#ffffff" stop-opacity="1"/>
+        <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+      </linearGradient>
+      <mask id="m">
+        <rect width="1200" height="200" fill="black"/>
+        <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+              font-size="90" font-weight="800" fill="url(#shine)">Hi im spacy</text>
+      </mask>
+    </defs>
+    <rect width="1200" height="200" fill="#0d1117" />
+    <rect width="1200" height="200" fill="white" mask="url(#m)">
+      <animate attributeName="x" from="-1200" to="1200" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+  </svg>
+</p>
+
+---
+8
+<!-- =========================
+OPTION 23 — SVG: пульсирующий градиентный текст
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 220" width="100%" height="170">
+    <defs>
+      <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#00C9FF"/>
+        <stop offset="100%" stop-color="#92FE9D"/>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="92" font-weight="800" fill="url(#grad)">
+      Hi im spacy
+      <animate attributeName="letter-spacing" values="0;4;0" dur="2.2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
+
+---
+9
+<!-- =========================
+OPTION 24 — SVG: "написано маркером" (анимация обводки)
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 220" width="100%" height="170">
+    <defs>
+      <linearGradient id="ink" x1="0" x2="1">
+        <stop offset="0%" stop-color="#22c55e"/>
+        <stop offset="100%" stop-color="#06b6d4"/>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="96" font-weight="900" fill="none" stroke="url(#ink)" stroke-width="2"
+          stroke-linecap="round" stroke-dasharray="1800" stroke-dashoffset="1800">
+      Hi im spacy
+      <animate attributeName="stroke-dashoffset" from="1800" to="0" dur="3s" fill="freeze" />
+    </text>
+  </svg>
+</p>
+
+---
+10
+<!-- =========================
+OPTION 25 — SVG: "обводка + заливка" (последовательная анимация)
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 220" width="100%" height="170">
+    <text id="t" x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="96" font-weight="900" fill="none" stroke="#ffffff" stroke-width="2"
+          stroke-dasharray="1700" stroke-dashoffset="1700">Hi im spacy</text>
+    <animate xlink:href="#t" attributeName="stroke-dashoffset" from="1700" to="0" dur="2.4s" fill="freeze"/>
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="96" font-weight="900" fill="#ffffff" opacity="0">Hi im spacy
+      <animate attributeName="opacity" from="0" to="1" begin="2s" dur="1s" fill="freeze"/>
+    </text>
+  </svg>
+</p>
+
+---
+11
+<!-- =========================
+OPTION 26 — SVG: лёгкий "желейный" bounce
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 200" width="100%" height="150">
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="86" font-weight="800" fill="#fff">
+      Hi im spacy
+      <animateTransform attributeName="transform" attributeType="XML" type="scale"
+                        values="1;1.05;1" dur="1.8s" repeatCount="indefinite" additive="sum"/>
+    </text>
+  </svg>
+</p>
+
+---
+12
+<!-- =========================
+OPTION 27 — SVG: лёгкий wiggle (виляние)
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 200" width="100%" height="150">
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="88" font-weight="900" fill="#fff">
+      Hi im spacy
+      <animateTransform attributeName="transform" type="rotate"
+                        values="-2 600 100; 2 600 100; -2 600 100"
+                        dur="2.2s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
+
+---
+13
+<!-- =========================
+OPTION 28 — SVG: "двойная тень" (глич-эффект)
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 200" width="100%" height="150">
+    <g font-size="90" font-weight="900" text-anchor="middle" dominant-baseline="middle">
+      <text x="50%" y="55%" fill="#0ea5e9">Hi im spacy</text>
+      <text x="50%" y="55%" fill="#ef4444">
+        Hi im spacy
+        <animate attributeName="dx" values="0;2;-2;0" dur="1.2s" repeatCount="indefinite"/>
+      </text>
+      <text x="50%" y="55%" fill="#fff">Hi im spacy</text>
+    </g>
+  </svg>
+</p>
+
+---
+14
+<!-- =========================
+OPTION 29 — SVG: монохром + постепенное проявление
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 200" width="100%" height="150">
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="92" font-weight="800" fill="#fff" opacity="0">
+      Hi im spacy
+      <animate attributeName="opacity" values="0;1;0.9" dur="2.5s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
+
+---
+15
+<!-- =========================
+OPTION 30 — SVG: контур + внутренняя тень (фильтры)
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 220" width="100%" height="170">
+    <defs>
+      <filter id="inset">
+        <feOffset dx="0" dy="1"/>
+        <feGaussianBlur stdDeviation="1.5" result="offset-blur"/>
+        <feComposite operator="out" in="SourceGraphic" in2="offset-blur" result="inverse"/>
+        <feFlood flood-color="black" flood-opacity="0.6" result="color"/>
+        <feComposite operator="in" in="color" in2="inverse" result="shadow"/>
+        <feComposite operator="over" in="shadow" in2="SourceGraphic"/>
+      </filter>
+    </defs>
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="94" font-weight="900" fill="#fff" filter="url(#inset)" stroke="#0d1117" stroke-width="2">
+      Hi im spacy
+    </text>
+  </svg>
+</p>
+
+---
+16
+<!-- =========================
+OPTION 31 — SVG: смена цвета по кругу
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 200" width="100%" height="150">
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="90" font-weight="900" fill="#22c55e">
+      Hi im spacy
+      <animate attributeName="fill" values="#22c55e;#06b6d4;#a78bfa;#22c55e" dur="4s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
+
+---
+17
+<!-- =========================
+OPTION 32 — SVG: обводка мерцает ("кирпичики" dash)
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 220" width="100%" height="170">
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="96" font-weight="900" fill="none" stroke="#fff" stroke-width="2"
+          stroke-dasharray="8 8">
+      Hi im spacy
+      <animate attributeName="stroke-dashoffset" values="0;16;0" dur="1.6s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
+
+---
+18
+<!-- =========================
+OPTION 33 — SVG: контур рисуется + заливка выцветает
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 220" width="100%" height="170">
+    <text id="outline" x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="96" font-weight="900" fill="none" stroke="#22c55e" stroke-width="2"
+          stroke-dasharray="2000" stroke-dashoffset="2000">Hi im spacy</text>
+    <animate xlink:href="#outline" attributeName="stroke-dashoffset" from="2000" to="0" dur="2.8s" fill="freeze"/>
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="96" font-weight="900" fill="#ffffff" opacity="0.0">
+      Hi im spacy
+      <animate attributeName="opacity" begin="1.2s" values="0;1;0.95" dur="2s" fill="freeze"/>
+    </text>
+  </svg>
+</p>
+
+---
+19
+<!-- =========================
+OPTION 34 — SVG: лёгкое плавание (y-осцилляция)
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 200" width="100%" height="150">
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="90" font-weight="900" fill="#fff">
+      Hi im spacy
+      <animate attributeName="y" values="55%;52%;55%" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
+
+---
+20
+<!-- =========================
+OPTION 35 — SVG: "кинетический" масштаб + поворот
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 220" width="100%" height="170">
+    <g transform-origin="600 110">
+      <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+            font-size="90" font-weight="900" fill="#fff">Hi im spacy</text>
+      <animateTransform attributeName="transform" type="rotate"
+                        values="-1 600 110;1 600 110;-1 600 110"
+                        dur="3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale"
+                        values="1;1.03;1" dur="2s" repeatCount="indefinite" additive="sum"/>
+    </g>
+  </svg>
+</p>
+
+---
+21
+<!-- =========================
+OPTION 36 — Typing SVG (мигающий курсор)
+========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=58&center=true&vCenter=true&width=900&duration=2200&cursor=true&lines=Hi+im+spacy" alt="typing cursor">
+</p>
+
+---
+22
+<!-- =========================
+OPTION 37 — GIF-вставка (подмена как баннер текста)
+(замени URL на свой gif с жирной надписью)
+========================= -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9jay1naWY/26Ff8p7iGoykP7HGU/giphy.gif" alt="bold animated hi" width="900">
+</p>
+
+---
+23
+<!-- =========================
+OPTION 38 — SVG: "подсветка маркером" с анимацией
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 240" width="100%" height="180">
+    <rect x="180" y="90" width="840" height="60" fill="#fde047" rx="8" ry="8" opacity="0.65">
+      <animate attributeName="width" from="0" to="840" dur="1.8s" fill="freeze"/>
+    </rect>
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="88" font-weight="900" fill="#111827">Hi im spacy</text>
+  </svg>
+</p>
+
+---
+24
+<!-- =========================
+OPTION 39 — SVG: контур мерцает, текст остаётся жирным
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 220" width="100%" height="170">
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="96" font-weight="900" fill="#fff" stroke="#22c55e" stroke-width="2">
+      Hi im spacy
+      <animate attributeName="stroke-opacity" values="1;0.4;1" dur="1.6s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+</p>
+
+---
+25
+<!-- =========================
+OPTION 40 — SVG: "пишущая машинка" (символьное проявление)
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 220" width="100%" height="170">
+    <defs>
+      <clipPath id="clip">
+        <rect id="r" x="200" y="60" width="0" height="120">
+          <animate attributeName="width" from="0" to="800" dur="2.2s" fill="freeze"/>
+        </rect>
+      </clipPath>
+    </defs>
+    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
+          font-size="92" font-weight="900" fill="#fff" clip-path="url(#clip)">Hi im spacy</text>
+  </svg>
+</p>
 
 
 <!-- =========================
