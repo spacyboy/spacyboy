@@ -9,13 +9,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+an+ML+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+AI;Always+learning+new+things+🚀" alt="Typing SVG" />
 </p>
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SPACY&theme=github_dark)
-![Stats](https://github-readme-stats.vercel.app/api?username=SPACY&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=SPACY&theme=tokyonight)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPACY&layout=compact&theme=tokyonight)
 
-![Stars](https://img.shields.io/github/stars/SPACY?style=social)
-![Followers](https://img.shields.io/github/followers/SPACY?style=social)
+<p align="center">
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="aryashah2k" /></picture></a>
+  <a href="https://github.com/ishandutta2007/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
+
+
+<br>
 
 
 
