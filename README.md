@@ -14,97 +14,6 @@
 ========================================================================
 ========================================================================
 
-<p align="center">
-  <img src="https://psd-dude.com/upload/scroller.gif?text=Hi%20im%20spacy&speed=5&size=40" alt="Hi im spacy scrolling text" />
-</p>
-
-
-
-<p align="center">
-  <img src="hi_im_spacy_marquee_dark.gif" alt="Hi im spacy marquee" />
-</p>
-
-<!-- =========================
-OPTION A — Классический <marquee> (просто и быстро)
-(устаревший тег, может не работать в приложениях)
-========================= -->
-<div align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6" width="90%">
-    <strong>Hi im spacy • Hi im spacy • Hi im spacy • Hi im spacy •</strong>
-  </marquee>
-</div>
-
----
-
-<!-- =========================
-OPTION B — SVG: непрерывная строка (2 копии текста, плавный цикл)
-========================= -->
-<p align="center">
-  <svg viewBox="0 0 1200 80" width="100%" height="80" role="img" aria-label="Hi im spacy marquee">
-    <defs>
-      <symbol id="row">
-        <text y="50%" dominant-baseline="middle" font-size="36" font-weight="800" fill="#fff">
-          Hi im spacy • Hi im spacy • Hi im spacy • Hi im spacy •
-        </text>
-      </symbol>
-    </defs>
-    <!-- Две ленты: одна следует за другой -->
-    <g>
-      <use xlink:href="#row" x="0">
-        <animate attributeName="x" from="0" to="-1200" dur="12s" repeatCount="indefinite"/>
-      </use>
-      <use xlink:href="#row" x="1200">
-        <animate attributeName="x" from="1200" to="0" dur="12s" repeatCount="indefinite"/>
-      </use>
-    </g>
-  </svg>
-</p>
-
----
-
-<!-- =========================
-OPTION C — SVG: бегущая строка справа налево (одна “лента”)
-========================= -->
-<p align="center">
-  <svg viewBox="0 0 1200 80" width="100%" height="80">
-    <text id="t" x="1200" y="50%" dominant-baseline="middle"
-          font-size="40" font-weight="900" fill="#ffffff">
-      Hi im spacy • Hi im spacy • Hi im spacy • Hi im spacy •
-    </text>
-    <animate xlink:href="#t" attributeName="x" from="1200" to="-1600" dur="10s" repeatCount="indefinite"/>
-  </svg>
-</p>
-
----
-
-<!-- =========================
-OPTION D — SVG: в обе стороны (туда-сюда)
-========================= -->
-<p align="center">
-  <svg viewBox="0 0 1200 80" width="100%" height="80">
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-          font-size="40" font-weight="900" fill="#fff">
-      Hi im spacy • Hi im spacy • Hi im spacy •
-      <animate attributeName="x" values="50%;-50%;50%" dur="8s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</p>
-
----
-
-<!-- =========================
-OPTION E — SVG: бегущая строка по волнистой траектории (textPath)
-========================= -->
-<p align="center">
-  <svg viewBox="0 0 1200 120" width="100%" height="120">
-    <defs>
-      <path id="wave" d="M0,60 Q150,10 300,60 T600,60 T900,60 T1200,60" fill="none" stroke="none"/>
-    </defs>
-    <t
-
-
-
-
 
 1
 <!-- =========================
@@ -115,25 +24,9 @@ OPTION 16 — Typing SVG (жирный, быстрый набор)
 </p>
 
 ---
-2
-<!-- =========================
-OPTION 17 — Typing SVG (ультра-крупный, медленный)
-========================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=72&duration=3800&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+im+spacy" alt="typing huge slow">
-</p>
 
----
 3
-<!-- =========================
-OPTION 18 — Typing SVG (градиентная палитра через color)
-========================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=60&duration=2400&center=true&vCenter=true&width=980&color=00C9FF&lines=Hi+im+spacy" alt="typing blue">
-</p>
 
----
-4
 <!-- =========================
 OPTION 19 — Capsule Render (болд-текст, волна + подсветка)
 ========================= -->
