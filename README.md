@@ -6,6 +6,12 @@
 
 
 
+# Hi there 👋, I'm ml-engineer  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)  
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 
 
