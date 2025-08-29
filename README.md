@@ -7,7 +7,10 @@
 
 
 
-<div style="max-width: 800px; margin: auto; text-align: left;">
+<div align="center">
+
+<table>
+<tr><td>
 
 ## 👨‍💻 О себе
 
@@ -19,7 +22,11 @@
 - 🎶 Хобби: создавать музыкальные паттерны с помощью нейросетей  
 - 🔥 Мой девиз: *"Code → Train → Deploy → Impact"*  
 
+</td></tr>
+</table>
+
 </div>
+
 
 
 
