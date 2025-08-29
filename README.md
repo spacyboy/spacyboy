@@ -13,13 +13,14 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
     <img src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true"
-         width="400" height="200" />
+         height="200" />
   </a>
   <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
     <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true"
-         width="400" height="200" />
+         height="200" />
   </a>
 </p>
+
 
 
 <br>
