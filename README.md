@@ -2,7 +2,7 @@
 <div align="justify">
 
 <h1 align="center">👋 Hi, I'm SPACY (Anton Smirnov)</h1>
-<h3 align="center">Machine Learning • Deep Learning • AI Enthusiast</h3>
+<h3 align="center">ML Engineer • DL Engineer • LLM Researcher</h3>
 
 
 <p align="center">
