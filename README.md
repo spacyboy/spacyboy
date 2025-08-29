@@ -65,30 +65,7 @@
 
 
 
-## 🛠️ Стек и инструменты
 
-### Языки и ML-фреймворки
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-0052CC?logo=google&logoColor=white)
-
-### DevOps & Data Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white)
-
-
-
-## 🚀 Проекты и портфолио
-
-- 🧬 **[NeuroSynth](https://github.com/SPACY/neurosynth)** → генеративная музыка через Transformer  
-- 📈 **[TimeSeries-Lab](https://github.com/SPACY/timeseries-lab)** → предсказания временных рядов (LSTM/Prophet/Transformers)  
-- 🤖 **[AI-Agents](https://github.com/SPACY/ai-agents)** → эксперименты с автономными LLM-агентами  
-- 🛰 **[SatelliteVision](https://github.com/SPACY/satellite-vision)** → сегментация спутниковых снимков с U-Net  
 
 
 
@@ -98,16 +75,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SPACY&theme=github_dark"/>
-</p>
-
-
-
-## 🌐 Контакты
-
-<p align="center">
-  <a href="https://t.me/spacy_ai"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/spacy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:spacy.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 
@@ -125,19 +92,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="600" alt="cyberpunk ai"/>
-</p>
-
----
-
-
-## 🛠 Стек и инструменты (киберпанк-неон 🌐)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,docker,kubernetes,postgres,linux,git,github,fastapi&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&theme=radical&line1=Python,Python,3776AB;Pytorch,Pytorch,EE4C2C;Tensorflow,Tensorflow,FF6F00;Scikitlearn,Scikitlearn,F7931E&line2=Docker,Docker,2496ED;Kubernetes,Kubernetes,326CE5;Airflow,Airflow,017CEE;MLflow,MLflow,0194E2" />
 </p>
 
 ---
