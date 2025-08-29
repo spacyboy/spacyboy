@@ -328,17 +328,13 @@
 
 </div>
 
-<p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
+
 
 <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 
 
 
-10) «Кибер-подпись» с цитатой (неоновая рамка)
-<!-- CYBER QUOTE -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1500&color=FF2079&center=true&vCenter=true&width=900&lines=%E2%9A%A1%20%22Data%20is%20noise.%20Models%20are%20filters.%20Impact%20is%20signal.%22%20%E2%9A%A1" />
 </p>
