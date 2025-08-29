@@ -8,17 +8,166 @@
 
 # Hi there 👋, I'm ml-engineer  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)  
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
-
-
 
 
 ========================================================================
 ========================================================================
 ========================================================================
+
+
+
+<!-- =========================
+OPTION 1 — Markdown H1 (просто и крупно)
+========================= -->
+# Hi i, spacy
+
+---
+
+<!-- =========================
+OPTION 2 — Markdown H1 + подзаголовок
+========================= -->
+# Hi i, spacy
+### welcome to my space
+
+---
+
+<!-- =========================
+OPTION 3 — По центру (через контейнер)
+========================= -->
+<div align="center">
+
+# Hi i, spacy
+
+</div>
+
+---
+
+<!-- =========================
+OPTION 4 — HTML h1, по центру (самый крупный стандартный шрифт)
+========================= -->
+<h1 align="center">Hi i, spacy</h1>
+
+---
+
+<!-- =========================
+OPTION 5 — HTML h2 + разделители
+========================= -->
+<h2 align="center">━━━ Hi i, spacy ━━━</h2>
+
+---
+
+<!-- =========================
+OPTION 6 — ASCII-баннер (моноширинный стиль)
+========================= -->
+<pre>
+ _   _ _     _       _       _             
+| | | (_)   | |     | |     | |            
+| |_| |_  __| | __ _| |_ ___| |__  ___  _ __ 
+|  _  | |/ _` |/ _` | __/ __| '_ \/ _ \| '__|
+| | | | | (_| | (_| | || (__| | | | (_) | |   
+\_| |_/_|\__,_|\__,_|\__\___|_| |_|\___/|_|   
+
+                  Hi i, spacy
+</pre>
+
+---
+
+<!-- =========================
+OPTION 7 — Typing SVG (анимированный "набор текста")
+========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=42&duration=2500&pause=700&center=true&vCenter=true&width=800&lines=Hi+i%2C+spacy" alt="typing animation">
+</p>
+
+---
+
+<!-- =========================
+OPTION 8 — Typing SVG (медленнее, крупнее, несколько повторов)
+========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=52&duration=3500&pause=900&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Hi+i%2C+spacy" alt="typing animation large">
+</p>
+
+---
+
+<!-- =========================
+OPTION 9 — Typing SVG (с цветом текста)
+========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=48&color=00F700&center=true&vCenter=true&width=800&lines=Hi+i%2C+spacy" alt="typing animation green">
+</p>
+
+---
+
+<!-- =========================
+OPTION 10 — Capsule Render (волна + градиентный баннер)
+========================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Hi%20i,%20spacy&fontSize=60&fontAlign=50&animation=twinkling" alt="wave banner">
+</p>
+
+---
+
+<!-- =========================
+OPTION 11 — Capsule Render (rounded + тёмная тема)
+========================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=1F2937&text=Hi%20i,%20spacy&fontColor=FFFFFF&fontSize=54&height=140&section=header" alt="rounded banner">
+</p>
+
+---
+
+<!-- =========================
+OPTION 12 — Shields "гигантский бейдж" (лаконично)
+========================= -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Hi%20i%2C%20spacy-000000?style=for-the-badge&logo=github&logoColor=white" alt="badge text">
+</p>
+
+---
+
+<!-- =========================
+OPTION 13 — Inline SVG (крупный текст с обводкой)
+Примечание: GitHub обычно рендерит базовый SVG без скриптов.
+========================= -->
+<p align="center">
+  <svg viewBox="0 0 1200 220" width="100%" height="180" role="img" aria-label="Hi i, spacy">
+    <defs>
+      <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0%" stop-color="#00C9FF"/>
+        <stop offset="100%" stop-color="#92FE9D"/>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="1200" height="220" fill="none"/>
+    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
+          font-family="Segoe UI, Inter, Roboto, Arial, sans-serif"
+          font-size="96" fill="url(#grad)" stroke="#111" stroke-width="2">
+      Hi i, spacy
+    </text>
+  </svg>
+</p>
+
+---
+
+<!-- =========================
+OPTION 14 — Маркировка "бегущая строка" (может не поддерживаться в некоторых клиентах)
+========================= -->
+<div align="center">
+  <marquee behavior="alternate" direction="left" scrollamount="6" width="80%">
+    <strong>Hi i, spacy</strong>
+  </marquee>
+</div>
+
+---
+
+<!-- =========================
+OPTION 15 — Большая картинка-заголовок (через placeholder)
+========================= -->
+<p align="center">
+  <img src="https://placehold.co/1200x240/0d1117/ffffff?text=Hi%20i,%20spacy" alt="simple banner">
+</p>
+
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Привет!+Я+SPACY+🚀;ML+Engineer+из+России+🇷🇺;Deep+Learning+%7C+MLOps+%7C+AI+Research" alt="Typing SVG" />
