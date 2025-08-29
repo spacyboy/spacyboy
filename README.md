@@ -5,7 +5,9 @@
 <h3 align="center" style="margin-top:0;">ML Engineer • DL Engineer • LLM Researcher</h3>
 
 
-## 👨‍💻 О себе  
+<div style="max-width: 800px; margin: auto; text-align: left;">
+
+## 👨‍💻 О себе
 
 > *"Данные — это новый нефть, а моя задача — превращать её в ракетное топливо 🚀"*
 
@@ -14,6 +16,8 @@
 - 📊 Увлекаюсь экспериментами с LLM, AI-агентами и генеративными моделями  
 - 🎶 Хобби: создавать музыкальные паттерны с помощью нейросетей  
 - 🔥 Мой девиз: *"Code → Train → Deploy → Impact"*  
+
+</div>
 
 
 
