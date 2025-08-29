@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<table>
+<table width="800" border="0" cellspacing="0" cellpadding="0">
 <tr><td>
 
 ## 👨‍💻 О себе
@@ -26,6 +26,7 @@
 </table>
 
 </div>
+
 
 
 
