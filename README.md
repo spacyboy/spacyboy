@@ -7,7 +7,7 @@
 
 
 
-<div align="center" style="max-width: 800px; margin: auto;">
+<div style="max-width: 800px; margin: auto; text-align: left;">
 
 ## 👨‍💻 О себе
 
@@ -20,6 +20,7 @@
 - 🔥 Мой девиз: *"Code → Train → Deploy → Impact"*  
 
 </div>
+
 
 
 
