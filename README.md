@@ -43,9 +43,9 @@
 
 
 
-<br> 
-кнопки
-<br>
+<div style="text-align: centr;">
+#Кнопки
+</div>
 
 
 
