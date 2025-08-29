@@ -7,26 +7,29 @@
 
 
 
-<div align="center">
+<p align="center">
+  <table width="800" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="800" align="left" valign="top">
 
-<table width="800" border="0" cellspacing="0" cellpadding="0">
-<tr><td>
+        <h2>👨‍💻 О себе</h2>
 
-## 👨‍💻 О себе
+        <blockquote>
+          <em>«Данные — это новый нефть, а моя задача — превращать её в ракетное топливо 🚀»</em>
+        </blockquote>
 
-> *"Данные — это новый нефть, а моя задача — превращать её в ракетное топливо 🚀"*
+        <ul>
+          <li>🎓 ML Engineer / Data Scientist / AI Researcher</li>
+          <li>🧪 Работаю с Deep Learning, MLOps и продакшн-архитектурами</li>
+          <li>📊 Увлекаюсь экспериментами с LLM, AI-агентами и генеративными моделями</li>
+          <li>🎶 Хобби: создавать музыкальные паттерны с помощью нейросетей</li>
+          <li>🔥 Мой девиз: <em>«Code → Train → Deploy → Impact»</em></li>
+        </ul>
 
-- 🎓 ML Engineer / Data Scientist / AI Researcher  
-- 🧪 Работаю с Deep Learning, MLOps и продакшн-архитектурами  
-- 📊 Увлекаюсь экспериментами с LLM, AI-агентами и генеративными моделями  
-- 🎶 Хобби: создавать музыкальные паттерны с помощью нейросетей  
-- 🔥 Мой девиз: *"Code → Train → Deploy → Impact"*  
-
-</td></tr>
-</table>
-
-</div>
-
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 
