@@ -10,14 +10,16 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
-    <img width="50%" src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
-    <img width="50%" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://beautiful-github-homepage.vercel.app/api?username=SPACY&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=SPACY&hide_title=false&layout=compact&theme=gotham&count_private=true" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 
 
