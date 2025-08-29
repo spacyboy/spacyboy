@@ -5,6 +5,21 @@
 <h3 align="center" style="margin-top:0;">ML Engineer • DL Engineer • LLM Researcher</h3>
 
 
+
+
+## 👨‍💻 О себе
+
+> *"Данные — это новый нефть, а моя задача — превращать её в ракетное топливо 🚀"*
+
+- 🎓 ML Engineer / Data Scientist / AI Researcher  
+- 🧪 Работаю с Deep Learning, MLOps и продакшн-архитектурами  
+- 📊 Увлекаюсь экспериментами с LLM, AI-агентами и генеративными моделями  
+- 🎶 Хобби: создавать музыкальные паттерны с помощью нейросетей  
+- 🔥 Мой девиз: *"Code → Train → Deploy → Impact"*  
+
+
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+an+ML+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+AI;Always+learning+new+things+🚀" alt="Typing SVG" />
 </p>
@@ -35,17 +50,6 @@
 ========================================================================
 ========================================================================
 
-
-
-## 👨‍💻 О себе
-
-> *"Данные — это новый нефть, а моя задача — превращать её в ракетное топливо 🚀"*
-
-- 🎓 ML Engineer / Data Scientist / AI Researcher  
-- 🧪 Работаю с Deep Learning, MLOps и продакшн-архитектурами  
-- 📊 Увлекаюсь экспериментами с LLM, AI-агентами и генеративными моделями  
-- 🎶 Хобби: создавать музыкальные паттерны с помощью нейросетей  
-- 🔥 Мой девиз: *"Code → Train → Deploy → Impact"*  
 
 
 
