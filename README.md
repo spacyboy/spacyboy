@@ -8,7 +8,19 @@
 
 # 👋 Hi, I'm SPACY (Anton Smirnov)
 
+<h1 align="center">👋 Hi, I'm an ML Engineer</h1>
+<h3 align="center">Machine Learning • Deep Learning • AI Enthusiast</h3>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+an+ML+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+AI;Always+learning+new+things+🚀" alt="Typing SVG" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20ML%20Engineer&fontSize=50&fontAlign=50&animation=twinkling" />
+</p>
 
 ========================================================================
 ========================================================================
@@ -187,9 +199,6 @@ OPTION 13 — Inline SVG (крупный текст с обводкой)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SPACY&theme=github_dark"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/SPACY/SPACY/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 
 ## 🌐 Контакты
@@ -252,7 +261,7 @@ OPTION 13 — Inline SVG (крупный текст с обводкой)
 ```
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SPACY&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF2079" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPACY&theme=radical&hide_border=true&background=0D1117&ring=FF2079&fire=00F7FF&currStreakLabel=FFFFFF" height="180"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SPACY&theme=radical"/> </p>
 
-<p align="center"> <img src="https://github.com/SPACY/SPACY/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/> </p>
+
 
 <p align="center"> <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/graph/graph-theme-cyberpunk.svg" width="100%"/> </p>
 
@@ -283,11 +292,6 @@ OPTION 13 — Inline SVG (крупный текст с обводкой)
 
 
 
-3) Матрица-дождь (киберфон)
-<!-- MATRIX RAIN BACKDROP -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="900" alt="matrix rain"/>
-</p>
 
 
 4) Кибер-терминал с автопечатью (другие строки)
@@ -296,16 +300,6 @@ OPTION 13 — Inline SVG (крупный текст с обводкой)
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=%24%20init%20pipeline...;load%20dataset%20%5BOK%5D;train%20%5BGPU%20A100%5D%20%3A%20epoch%20%5B1..N%5D;metrics%3A%20ROC-AUC%200.985%E2%86%91;%3E%3E%3E%20deploy%20to%20prod%20via%20MLOps" />
 </p>
 
-
-5) Неон-разделители (волны + сетка)
-<!-- NEON DIVIDERS -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:120458,100:00F7FF&section=header&text=//%20SYSTEM%20ONLINE&fontColor=FFFFFF&fontAlignY=30&fontSize=20&animation=twinkling" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=80&color=0:FF2079,100:00F7FF&reversal=true&animation=scaleIn" />
-</p>
 
 
 
