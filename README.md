@@ -1,10 +1,8 @@
 <img src="https://raw.githubusercontent.com/spacyboy/spacyboy/main/logo2.png" alt="SPACY" title="SPACY"/>
 <div align="justify">
 
-<h1 align="center">
-  👋 Hi, I'm SPACY (Anton Smirnov)<br>
-  <span style="font-size:22px;">ML Engineer • DL Engineer • LLM Researcher</span>
-</h1>
+<h1 align="center" style="margin-bottom:0;">👋 Hi, I'm SPACY (Anton Smirnov)</h1>
+<h3 align="center" style="margin-top:0;">ML Engineer • DL Engineer • LLM Researcher</h3>
 
 
 <p align="center">
