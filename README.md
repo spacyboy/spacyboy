@@ -13,6 +13,13 @@
 ========================================================================
 ========================================================================
 ========================================================================
+
+<p align="center">
+  <img src="https://psd-dude.com/upload/scroller.gif?text=Hi%20im%20spacy&speed=5&size=40" alt="Hi im spacy scrolling text" />
+</p>
+
+
+
 <p align="center">
   <img src="hi_im_spacy_marquee_dark.gif" alt="Hi im spacy marquee" />
 </p>
