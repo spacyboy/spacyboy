@@ -56,21 +56,7 @@ OPTION 5 — HTML h2 + разделители
 
 ---
 
-<!-- =========================
-OPTION 6 — ASCII-баннер (моноширинный стиль)
-========================= -->
-<pre>
- _   _ _     _       _       _             
-| | | (_)   | |     | |     | |            
-| |_| |_  __| | __ _| |_ ___| |__  ___  _ __ 
-|  _  | |/ _` |/ _` | __/ __| '_ \/ _ \| '__|
-| | | | | (_| | (_| | || (__| | | | (_) | |   
-\_| |_/_|\__,_|\__,_|\__\___|_| |_|\___/|_|   
 
-                  Hi i, spacy
-</pre>
-
----
 
 <!-- =========================
 OPTION 7 — Typing SVG (анимированный "набор текста")
@@ -99,14 +85,6 @@ OPTION 9 — Typing SVG (с цветом текста)
 
 ---
 
-<!-- =========================
-OPTION 10 — Capsule Render (волна + градиентный баннер)
-========================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Hi%20i,%20spacy&fontSize=60&fontAlign=50&animation=twinkling" alt="wave banner">
-</p>
-
----
 
 <!-- =========================
 OPTION 11 — Capsule Render (rounded + тёмная тема)
@@ -169,9 +147,7 @@ OPTION 15 — Большая картинка-заголовок (через pla
 
 
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Привет!+Я+SPACY+🚀;ML+Engineer+из+России+🇷🇺;Deep+Learning+%7C+MLOps+%7C+AI+Research" alt="Typing SVG" />
-</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-ML%20Engineer-blue?style=flat-square&logo=github&logoColor=white"/>
@@ -179,9 +155,6 @@ OPTION 15 — Большая картинка-заголовок (через pla
   <img src="https://komarev.com/ghpvc/?username=SPACY&style=flat-square&color=brightgreen" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
 
 
 
