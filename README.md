@@ -35,7 +35,15 @@ OPTION 20 — Capsule Render (градиентная капсула, тёмна�
   <img src="https://capsule-render.vercel.app/api?type=rounded&height=160&section=header&text=Hi%20im%20spacy&fontSize=58&fontColor=FFFFFF&color=1F2937" alt="rounded dark bold">
 </p>
 
+---
+6
 
+<!-- =========================
+OPTION 11 — Capsule Render (rounded + тёмная тема)
+========================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=1F2937&text=Hi%20i,%20spacy&fontColor=FFFFFF&fontSize=54&height=140&section=header" alt="rounded banner">
+</p>
 
 ---
 21
@@ -56,35 +64,6 @@ OPTION 37 — GIF-вставка (подмена как баннер текст�
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9jay1naWY/26Ff8p7iGoykP7HGU/giphy.gif" alt="bold animated hi" width="900">
 </p>
 
----
-23
-<!-- =========================
-OPTION 38 — SVG: "подсветка маркером" с анимацией
-========================= -->
-<p align="center">
-  <svg viewBox="0 0 1200 240" width="100%" height="180">
-    <rect x="180" y="90" width="840" height="60" fill="#fde047" rx="8" ry="8" opacity="0.65">
-      <animate attributeName="width" from="0" to="840" dur="1.8s" fill="freeze"/>
-    </rect>
-    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
-          font-size="88" font-weight="900" fill="#111827">Hi im spacy</text>
-  </svg>
-</p>
-
----
-24
-<!-- =========================
-OPTION 39 — SVG: контур мерцает, текст остаётся жирным
-========================= -->
-<p align="center">
-  <svg viewBox="0 0 1200 220" width="100%" height="170">
-    <text x="50%" y="55%" text-anchor="middle" dominant-baseline="middle"
-          font-size="96" font-weight="900" fill="#fff" stroke="#22c55e" stroke-width="2">
-      Hi im spacy
-      <animate attributeName="stroke-opacity" values="1;0.4;1" dur="1.6s" repeatCount="indefinite"/>
-    </text>
-  </svg>
-</p>
 
 ---
 25
@@ -137,15 +116,7 @@ OPTION 9 — Typing SVG (с цветом текста)
   <img src="https://readme-typing-svg.herokuapp.com?size=48&color=00F700&center=true&vCenter=true&width=800&lines=Hi+i%2C+spacy" alt="typing animation green">
 </p>
 
----
-6
 
-<!-- =========================
-OPTION 11 — Capsule Render (rounded + тёмная тема)
-========================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=1F2937&text=Hi%20i,%20spacy&fontColor=FFFFFF&fontSize=54&height=140&section=header" alt="rounded banner">
-</p>
 
 ---
 5
