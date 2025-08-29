@@ -1,14 +1,7 @@
 <img src="https://raw.githubusercontent.com/spacyboy/spacyboy/main/logo2.png" alt="SPACY" title="SPACY"/>
 <div align="justify">
 
-
-
-
-
-
-# 👋 Hi, I'm SPACY (Anton Smirnov)
-
-<h1 align="center">👋 Hi, I'm an ML Engineer</h1>
+<h1 align="center">👋 Hi, I'm SPACY (Anton Smirnov)</h1>
 <h3 align="center">Machine Learning • Deep Learning • AI Enthusiast</h3>
 
 
@@ -18,9 +11,7 @@
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20ML%20Engineer&fontSize=50&fontAlign=50&animation=twinkling" />
-</p>
+
 
 ========================================================================
 ========================================================================
