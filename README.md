@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://github.com/spacyboy/beautiful-github-homepage">
-    <img height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=spacyboy&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" />
+     <img width="100%"  src="https://beautiful-github-homepage.vercel.app/api?username=spacyboy&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/spacyboy/beautiful-github-homepage">
-    <img height="150px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=spacyboy&hide_title=false&layout=compact&theme=gotham&count_private=true" />
+      <img width="100%"  src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=spacyboy&hide_title=false&layout=compact&theme=gotham&count_private=true" />
   </a>
 </p>
 
