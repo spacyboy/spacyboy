@@ -18,43 +18,7 @@
 
 <!-- =========================
 OPTION 1 — Markdown H1 (просто и крупно)
-========================= -->
-# Hi i, spacy
 
----
-22
-<!-- =========================
-OPTION 2 — Markdown H1 + подзаголовок
-========================= -->
-# Hi i, spacy
-### welcome to my space
-
----
-11
-<!-- =========================
-OPTION 3 — По центру (через контейнер)
-========================= -->
-<div align="center">
-
-# Hi i, spacy
-
-</div>
-
----
-1
-<!-- =========================
-OPTION 4 — HTML h1, по центру (самый крупный стандартный шрифт)
-========================= -->
-<h1 align="center">Hi i, spacy</h1>
-
----
-0
-<!-- =========================
-OPTION 5 — HTML h2 + разделители
-========================= -->
-<h2 align="center">━━━ Hi i, spacy ━━━</h2>
-
----
 
 
 9
@@ -95,12 +59,6 @@ OPTION 11 — Capsule Render (rounded + тёмная тема)
 
 ---
 5
-<!-- =========================
-OPTION 12 — Shields "гигантский бейдж" (лаконично)
-========================= -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Hi%20i%2C%20spacy-000000?style=for-the-badge&logo=github&logoColor=white" alt="badge text">
-</p>
 
 ---
 4
@@ -108,33 +66,9 @@ OPTION 12 — Shields "гигантский бейдж" (лаконично)
 OPTION 13 — Inline SVG (крупный текст с обводкой)
 Примечание: GitHub обычно рендерит базовый SVG без скриптов.
 ========================= -->
-<p align="center">
-  <svg viewBox="0 0 1200 220" width="100%" height="180" role="img" aria-label="Hi i, spacy">
-    <defs>
-      <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#00C9FF"/>
-        <stop offset="100%" stop-color="#92FE9D"/>
-      </linearGradient>
-    </defs>
-    <rect x="0" y="0" width="1200" height="220" fill="none"/>
-    <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle"
-          font-family="Segoe UI, Inter, Roboto, Arial, sans-serif"
-          font-size="96" fill="url(#grad)" stroke="#111" stroke-width="2">
-      Hi i, spacy
-    </text>
-  </svg>
-</p>
+
 
 ---
-3
-<!-- =========================
-OPTION 14 — Маркировка "бегущая строка" (может не поддерживаться в некоторых клиентах)
-========================= -->
-<div align="center">
-  <marquee behavior="alternate" direction="left" scrollamount="6" width="80%">
-    <strong>Hi i, spacy</strong>
-  </marquee>
-</div>
 
 ---
 
