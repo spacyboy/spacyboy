@@ -12,13 +12,15 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
-   <img src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&hide_rank=true" width="400"/>
-
+    <img src="https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true&hide_rank=true" height="200"/>
   </a>
   <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
-    <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true"
-         height="200" />
+    <img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" height="200"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ishandutta2007&theme=gotham&hide_border=false" height="200"/>
 </p>
 
 
