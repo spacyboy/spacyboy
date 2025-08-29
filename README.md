@@ -2,8 +2,8 @@
 <div align="justify">
 
 <h1 align="center">👋 Hi, I'm SPACY (Anton Smirnov)</h1>
+<h2 align="center">ML Engineer • DL Engineer • LLM Researcher</h2>
 <h3 align="center">ML Engineer • DL Engineer • LLM Researcher</h3>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+an+ML+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+AI;Always+learning+new+things+🚀" alt="Typing SVG" />
