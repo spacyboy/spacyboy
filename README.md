@@ -5,7 +5,6 @@
 <h3 align="center" style="margin-top:0;">ML Engineer • DL Engineer • LLM Researcher</h3>
 
 
-<div style="max-width: 800px; margin: auto; text-align: left;">
 
 ## 👨‍💻 О себе
 
@@ -17,7 +16,6 @@
 - 🎶 Хобби: создавать музыкальные паттерны с помощью нейросетей  
 - 🔥 Мой девиз: *"Code → Train → Deploy → Impact"*  
 
-</div>
 
 
 
