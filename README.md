@@ -43,8 +43,10 @@
 
 
 
-<div style="text-align: centr;">
-#Кнопки
+<div align="center">
+
+# Кнопки
+
 </div>
 
 
