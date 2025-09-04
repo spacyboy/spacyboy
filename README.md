@@ -28,7 +28,6 @@
   </a>
 </p>
 
-
 <!-- ОБО МНЕ -->
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -170,9 +169,9 @@
 <!-- ГИФКА -->
 
 <img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
 <!-- СОЦСЕТИ -->
 
-<br>
 <br>
 
 <p align="center">
